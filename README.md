@@ -52,8 +52,23 @@ The project manages students, courses, enrollments, payments, and attendance.
 
 ## Screenshots
 
-### Objects
-![Objects](images/attendance object.png,images/course object.png,images/enrollment object.png,images/faculty object.png,images/payment object.png,images/student object.png)
+### Attendance Object
+![Objects](images/attendance_object.png)
+
+### Course Object
+![Objects](images/course_object.png)
+
+### Enrollment Object
+![Objects](images/enrollment_object.png)
+
+### Faculty Object
+![Objects](images/faculty_object.png)
+
+### Payment Object
+![Objects](images/payment_object.png)
+
+### Student Object
+![Objects](images/student_object.png)
 
 ### Dashboard
 ![Dashboard](images/dashboard.png)
