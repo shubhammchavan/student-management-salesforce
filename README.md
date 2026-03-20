@@ -50,5 +50,19 @@ The project manages students, courses, enrollments, payments, and attendance.
 - Salesforce CLI
 - GitHub
 
+## Screenshots
+
+### Objects
+![Objects](images/attendance object.png,images/course object.png,images/enrollment object.png,images/faculty object.png,images/payment object.png,images/student object.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Report
+![Report](images/report.png)
+
+### Records
+![Records](images/records.png)
+
 ## 📌 Author
 Shubham Chavan
